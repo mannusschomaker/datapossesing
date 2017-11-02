@@ -49,8 +49,8 @@ def extract_tvseries(dom):
 
     	count += 1
 
-
-    return tv_Matrix  # replace this line as well as appropriate
+    # return matrix with info for csv
+    return tv_Matrix 
 
 def save_csv(f, tvseries):
     '''
