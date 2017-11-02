@@ -48,7 +48,7 @@ def extract_tvseries(dom):
     	tv_Matrix[count][1] = e.by_tag("strong")[0].content
     	tv_Matrix[count][2] = (e.by_tag("span.genre")[0].content)
     	
-    	# add all actors together and add to matrix 
+    	# add all actors together and add to matrix + add runtime to matrix
     	actors = ""
     	for a in e.by_tag("p")[2].by_tag("a"):
     		actors =  actors + ", " + a.content
@@ -56,6 +56,7 @@ def extract_tvseries(dom):
     	tv_Matrix[count][4] = "".join(x for x in e.by_tag("span.run \
     		time")[0].content if x.isdigit())
     	count += 1
+
 
     return tv_Matrix  # replace this line as well as appropriate
 
