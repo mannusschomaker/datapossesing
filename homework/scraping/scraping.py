@@ -1,7 +1,7 @@
 
 #!/usr/bin/env python
-# Name:
-# Student number:
+# Name: mannus
+# Student number: schomaker
 '''
 This script scrapes IMDB and outputs a CSV file with highest rated tv series.
 '''
@@ -14,16 +14,6 @@ from pattern.web import NODE, TEXT, COMMENT, ELEMENT, DOCUMENT
 TARGET_URL = "http://www.imdb.com/search/title?num_votes=5000,&sort=user_rating,desc&start=1&title_type=tv_series"
 BACKUP_HTML = 'tvseries.html'
 OUTPUT_CSV = 'tvseries.csv'
-
-#dom = DOM(URL(TARGET_URL).download(cached=True))
-#print(dom.by_class("lister-item-header")[0].content)
-#a = dom.by_class("lister-item-header")[0]
-#print(a.by_tag("a"))
-
-
-#first = dom.by_class("lister-item-content")[0]
-#first_g = first.by_class("genre")
-#print(first_g)
 
 def extract_tvseries(dom):
     '''
@@ -38,7 +28,8 @@ def extract_tvseries(dom):
     '''
 
     # make a matrix with 50 lists with 5 values 
-    tv_Matrix = [[0] * 5 for i in range(len(dom.by_tag("div.lister-item-content")))]
+    tv_Matrix = [[0] * 5 for i in range(len(dom.by_tag("div.lister \
+    	-item-content")))]
     count = 0
 
     # put the title, rating, genre, actors and runtime in 1 list in the matrix
@@ -52,9 +43,11 @@ def extract_tvseries(dom):
     	actors = ""
     	for a in e.by_tag("p")[2].by_tag("a"):
     		actors =  actors + ", " + a.content
+
     	tv_Matrix[count][3] = actors.strip(", ")
     	tv_Matrix[count][4] = "".join(x for x in e.by_tag("span.run \
     		time")[0].content if x.isdigit())
+
     	count += 1
 
 
