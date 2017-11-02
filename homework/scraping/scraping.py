@@ -18,7 +18,6 @@ OUTPUT_CSV = 'tvseries.csv'
 def extract_tvseries(dom):
     '''
     Extract a list of highest rated TV series from DOM (of IMDB page).
-
     Each TV series entry should contain the following fields:
     - TV Title
     - Rating
