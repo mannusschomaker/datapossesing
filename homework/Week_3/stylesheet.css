@@ -1,0 +1,59 @@
+/*
+################
+ stylesheet.css
+ minor programeren
+ 
+ stylesheet for interactive bar chart
+ graph is interactive 
+ door: mannus schomaker 10591664
+################
+*/
+
+/* make bars blue */ 
+rect{
+	fill: steelblue;
+	opacity: .8;
+
+}
+
+/* make bars brown when hovering */
+rect:hover{
+	fill: brown;
+}
+
+/* set font and size for name of x axis */
+.xtext{
+	font: 15px sans-serif;
+}
+
+/* set font and size for title graph */
+.titletext{
+	font: 20px sans-serif;
+}
+
+/* sert font and size for all other text */
+.axis text {
+  	font: 10px sans-serif;
+}
+
+/*  style  x axis  lines */
+.axis line {
+  	stroke: grey;
+  	shape-rendering: crispEdges;
+}
+
+/* do not display x and y bar */
+path {
+  display: none;
+}
+
+/* style info windo from selected bar */
+.d3-tip {
+  line-height: 1;
+  padding: 3px;
+  background: rgba(54, 100, 139, 0.6);
+  color: #fff;
+  border-radius: 2px;
+  font: 10px sans-serif
+}
+
