@@ -1,0 +1,2192 @@
+[
+    {
+        "date": "2014-7-1",
+        "actual_max_temp": "70",
+        "record_max_temp": "56",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2014-7-2",
+        "actual_max_temp": "74",
+        "record_max_temp": "56",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-3",
+        "actual_max_temp": "71",
+        "record_max_temp": "56",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-4",
+        "actual_max_temp": "64",
+        "record_max_temp": "55",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-5",
+        "actual_max_temp": "60",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-6",
+        "actual_max_temp": "61",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-7",
+        "actual_max_temp": "67",
+        "record_max_temp": "55",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-8",
+        "actual_max_temp": "72",
+        "record_max_temp": "58",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-9",
+        "actual_max_temp": "71",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-10",
+        "actual_max_temp": "71",
+        "record_max_temp": "53",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-11",
+        "actual_max_temp": "68",
+        "record_max_temp": "55",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-12",
+        "actual_max_temp": "67",
+        "record_max_temp": "59",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-13",
+        "actual_max_temp": "69",
+        "record_max_temp": "56",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-14",
+        "actual_max_temp": "74",
+        "record_max_temp": "59",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-15",
+        "actual_max_temp": "67",
+        "record_max_temp": "58",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-16",
+        "actual_max_temp": "66",
+        "record_max_temp": "58",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-17",
+        "actual_max_temp": "63",
+        "record_max_temp": "62",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-18",
+        "actual_max_temp": "70",
+        "record_max_temp": "62",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-19",
+        "actual_max_temp": "66",
+        "record_max_temp": "60",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-20",
+        "actual_max_temp": "65",
+        "record_max_temp": "60",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-21",
+        "actual_max_temp": "70",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-22",
+        "actual_max_temp": "72",
+        "record_max_temp": "58",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-23",
+        "actual_max_temp": "69",
+        "record_max_temp": "56",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-24",
+        "actual_max_temp": "71",
+        "record_max_temp": "59",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-25",
+        "actual_max_temp": "68",
+        "record_max_temp": "62",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-26",
+        "actual_max_temp": "66",
+        "record_max_temp": "60",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-27",
+        "actual_max_temp": "70",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-28",
+        "actual_max_temp": "68",
+        "record_max_temp": "54",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-29",
+        "actual_max_temp": "62",
+        "record_max_temp": "59",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-30",
+        "actual_max_temp": "63",
+        "record_max_temp": "58",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-7-31",
+        "actual_max_temp": "65",
+        "record_max_temp": "56",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-1",
+        "actual_max_temp": "65",
+        "record_max_temp": "58",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-2",
+        "actual_max_temp": "65",
+        "record_max_temp": "59",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-3",
+        "actual_max_temp": "67",
+        "record_max_temp": "60",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-4",
+        "actual_max_temp": "69",
+        "record_max_temp": "58",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-5",
+        "actual_max_temp": "65",
+        "record_max_temp": "55",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-6",
+        "actual_max_temp": "68",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-7",
+        "actual_max_temp": "67",
+        "record_max_temp": "50",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-8",
+        "actual_max_temp": "73",
+        "record_max_temp": "55",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-9",
+        "actual_max_temp": "68",
+        "record_max_temp": "56",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-10",
+        "actual_max_temp": "67",
+        "record_max_temp": "56",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-11",
+        "actual_max_temp": "71",
+        "record_max_temp": "58",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-12",
+        "actual_max_temp": "72",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-13",
+        "actual_max_temp": "65",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-14",
+        "actual_max_temp": "59",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-15",
+        "actual_max_temp": "60",
+        "record_max_temp": "55",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-16",
+        "actual_max_temp": "68",
+        "record_max_temp": "57",
+        "average_max_temp": "68"
+    },
+    {
+        "date": "2014-8-17",
+        "actual_max_temp": "67",
+        "record_max_temp": "55",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2014-8-18",
+        "actual_max_temp": "71",
+        "record_max_temp": "59",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2014-8-19",
+        "actual_max_temp": "70",
+        "record_max_temp": "59",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2014-8-20",
+        "actual_max_temp": "67",
+        "record_max_temp": "56",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2014-8-21",
+        "actual_max_temp": "67",
+        "record_max_temp": "56",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2014-8-22",
+        "actual_max_temp": "70",
+        "record_max_temp": "57",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2014-8-23",
+        "actual_max_temp": "73",
+        "record_max_temp": "53",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2014-8-24",
+        "actual_max_temp": "66",
+        "record_max_temp": "55",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2014-8-25",
+        "actual_max_temp": "60",
+        "record_max_temp": "56",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2014-8-26",
+        "actual_max_temp": "60",
+        "record_max_temp": "55",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2014-8-27",
+        "actual_max_temp": "57",
+        "record_max_temp": "55",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2014-8-28",
+        "actual_max_temp": "61",
+        "record_max_temp": "55",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2014-8-29",
+        "actual_max_temp": "69",
+        "record_max_temp": "54",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2014-8-30",
+        "actual_max_temp": "68",
+        "record_max_temp": "53",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2014-8-31",
+        "actual_max_temp": "74",
+        "record_max_temp": "53",
+        "average_max_temp": "65"
+    },
+    {
+        "date": "2014-9-1",
+        "actual_max_temp": "71",
+        "record_max_temp": "51",
+        "average_max_temp": "65"
+    },
+    {
+        "date": "2014-9-2",
+        "actual_max_temp": "69",
+        "record_max_temp": "53",
+        "average_max_temp": "65"
+    },
+    {
+        "date": "2014-9-3",
+        "actual_max_temp": "68",
+        "record_max_temp": "52",
+        "average_max_temp": "65"
+    },
+    {
+        "date": "2014-9-4",
+        "actual_max_temp": "69",
+        "record_max_temp": "54",
+        "average_max_temp": "64"
+    },
+    {
+        "date": "2014-9-5",
+        "actual_max_temp": "69",
+        "record_max_temp": "54",
+        "average_max_temp": "64"
+    },
+    {
+        "date": "2014-9-6",
+        "actual_max_temp": "70",
+        "record_max_temp": "53",
+        "average_max_temp": "64"
+    },
+    {
+        "date": "2014-9-7",
+        "actual_max_temp": "70",
+        "record_max_temp": "53",
+        "average_max_temp": "64"
+    },
+    {
+        "date": "2014-9-8",
+        "actual_max_temp": "67",
+        "record_max_temp": "54",
+        "average_max_temp": "63"
+    },
+    {
+        "date": "2014-9-9",
+        "actual_max_temp": "66",
+        "record_max_temp": "46",
+        "average_max_temp": "63"
+    },
+    {
+        "date": "2014-9-10",
+        "actual_max_temp": "65",
+        "record_max_temp": "47",
+        "average_max_temp": "63"
+    },
+    {
+        "date": "2014-9-11",
+        "actual_max_temp": "64",
+        "record_max_temp": "49",
+        "average_max_temp": "62"
+    },
+    {
+        "date": "2014-9-12",
+        "actual_max_temp": "72",
+        "record_max_temp": "45",
+        "average_max_temp": "62"
+    },
+    {
+        "date": "2014-9-13",
+        "actual_max_temp": "66",
+        "record_max_temp": "49",
+        "average_max_temp": "62"
+    },
+    {
+        "date": "2014-9-14",
+        "actual_max_temp": "62",
+        "record_max_temp": "47",
+        "average_max_temp": "61"
+    },
+    {
+        "date": "2014-9-15",
+        "actual_max_temp": "65",
+        "record_max_temp": "47",
+        "average_max_temp": "61"
+    },
+    {
+        "date": "2014-9-16",
+        "actual_max_temp": "65",
+        "record_max_temp": "47",
+        "average_max_temp": "61"
+    },
+    {
+        "date": "2014-9-17",
+        "actual_max_temp": "63",
+        "record_max_temp": "46",
+        "average_max_temp": "60"
+    },
+    {
+        "date": "2014-9-18",
+        "actual_max_temp": "62",
+        "record_max_temp": "48",
+        "average_max_temp": "60"
+    },
+    {
+        "date": "2014-9-19",
+        "actual_max_temp": "67",
+        "record_max_temp": "46",
+        "average_max_temp": "59"
+    },
+    {
+        "date": "2014-9-20",
+        "actual_max_temp": "59",
+        "record_max_temp": "45",
+        "average_max_temp": "59"
+    },
+    {
+        "date": "2014-9-21",
+        "actual_max_temp": "57",
+        "record_max_temp": "43",
+        "average_max_temp": "59"
+    },
+    {
+        "date": "2014-9-22",
+        "actual_max_temp": "61",
+        "record_max_temp": "43",
+        "average_max_temp": "58"
+    },
+    {
+        "date": "2014-9-23",
+        "actual_max_temp": "53",
+        "record_max_temp": "39",
+        "average_max_temp": "58"
+    },
+    {
+        "date": "2014-9-24",
+        "actual_max_temp": "53",
+        "record_max_temp": "43",
+        "average_max_temp": "57"
+    },
+    {
+        "date": "2014-9-25",
+        "actual_max_temp": "61",
+        "record_max_temp": "40",
+        "average_max_temp": "57"
+    },
+    {
+        "date": "2014-9-26",
+        "actual_max_temp": "62",
+        "record_max_temp": "42",
+        "average_max_temp": "57"
+    },
+    {
+        "date": "2014-9-27",
+        "actual_max_temp": "59",
+        "record_max_temp": "43",
+        "average_max_temp": "56"
+    },
+    {
+        "date": "2014-9-28",
+        "actual_max_temp": "60",
+        "record_max_temp": "41",
+        "average_max_temp": "56"
+    },
+    {
+        "date": "2014-9-29",
+        "actual_max_temp": "64",
+        "record_max_temp": "40",
+        "average_max_temp": "55"
+    },
+    {
+        "date": "2014-9-30",
+        "actual_max_temp": "59",
+        "record_max_temp": "38",
+        "average_max_temp": "55"
+    },
+    {
+        "date": "2014-10-1",
+        "actual_max_temp": "56",
+        "record_max_temp": "39",
+        "average_max_temp": "54"
+    },
+    {
+        "date": "2014-10-2",
+        "actual_max_temp": "59",
+        "record_max_temp": "36",
+        "average_max_temp": "54"
+    },
+    {
+        "date": "2014-10-3",
+        "actual_max_temp": "61",
+        "record_max_temp": "36",
+        "average_max_temp": "54"
+    },
+    {
+        "date": "2014-10-4",
+        "actual_max_temp": "43",
+        "record_max_temp": "33",
+        "average_max_temp": "53"
+    },
+    {
+        "date": "2014-10-5",
+        "actual_max_temp": "38",
+        "record_max_temp": "38",
+        "average_max_temp": "53"
+    },
+    {
+        "date": "2014-10-6",
+        "actual_max_temp": "47",
+        "record_max_temp": "38",
+        "average_max_temp": "52"
+    },
+    {
+        "date": "2014-10-7",
+        "actual_max_temp": "53",
+        "record_max_temp": "34",
+        "average_max_temp": "52"
+    },
+    {
+        "date": "2014-10-8",
+        "actual_max_temp": "58",
+        "record_max_temp": "34",
+        "average_max_temp": "52"
+    },
+    {
+        "date": "2014-10-9",
+        "actual_max_temp": "52",
+        "record_max_temp": "31",
+        "average_max_temp": "51"
+    },
+    {
+        "date": "2014-10-10",
+        "actual_max_temp": "60",
+        "record_max_temp": "30",
+        "average_max_temp": "51"
+    },
+    {
+        "date": "2014-10-11",
+        "actual_max_temp": "68",
+        "record_max_temp": "29",
+        "average_max_temp": "51"
+    },
+    {
+        "date": "2014-10-12",
+        "actual_max_temp": "58",
+        "record_max_temp": "31",
+        "average_max_temp": "50"
+    },
+    {
+        "date": "2014-10-13",
+        "actual_max_temp": "59",
+        "record_max_temp": "35",
+        "average_max_temp": "50"
+    },
+    {
+        "date": "2014-10-14",
+        "actual_max_temp": "64",
+        "record_max_temp": "32",
+        "average_max_temp": "49"
+    },
+    {
+        "date": "2014-10-15",
+        "actual_max_temp": "58",
+        "record_max_temp": "30",
+        "average_max_temp": "49"
+    },
+    {
+        "date": "2014-10-16",
+        "actual_max_temp": "50",
+        "record_max_temp": "35",
+        "average_max_temp": "49"
+    },
+    {
+        "date": "2014-10-17",
+        "actual_max_temp": "44",
+        "record_max_temp": "35",
+        "average_max_temp": "48"
+    },
+    {
+        "date": "2014-10-18",
+        "actual_max_temp": "53",
+        "record_max_temp": "31",
+        "average_max_temp": "48"
+    },
+    {
+        "date": "2014-10-19",
+        "actual_max_temp": "45",
+        "record_max_temp": "30",
+        "average_max_temp": "48"
+    },
+    {
+        "date": "2014-10-20",
+        "actual_max_temp": "46",
+        "record_max_temp": "30",
+        "average_max_temp": "47"
+    },
+    {
+        "date": "2014-10-21",
+        "actual_max_temp": "47",
+        "record_max_temp": "30",
+        "average_max_temp": "47"
+    },
+    {
+        "date": "2014-10-22",
+        "actual_max_temp": "44",
+        "record_max_temp": "29",
+        "average_max_temp": "47"
+    },
+    {
+        "date": "2014-10-23",
+        "actual_max_temp": "40",
+        "record_max_temp": "31",
+        "average_max_temp": "46"
+    },
+    {
+        "date": "2014-10-24",
+        "actual_max_temp": "39",
+        "record_max_temp": "28",
+        "average_max_temp": "46"
+    },
+    {
+        "date": "2014-10-25",
+        "actual_max_temp": "39",
+        "record_max_temp": "27",
+        "average_max_temp": "46"
+    },
+    {
+        "date": "2014-10-26",
+        "actual_max_temp": "48",
+        "record_max_temp": "27",
+        "average_max_temp": "45"
+    },
+    {
+        "date": "2014-10-27",
+        "actual_max_temp": "43",
+        "record_max_temp": "24",
+        "average_max_temp": "45"
+    },
+    {
+        "date": "2014-10-28",
+        "actual_max_temp": "52",
+        "record_max_temp": "26",
+        "average_max_temp": "45"
+    },
+    {
+        "date": "2014-10-29",
+        "actual_max_temp": "58",
+        "record_max_temp": "27",
+        "average_max_temp": "44"
+    },
+    {
+        "date": "2014-10-30",
+        "actual_max_temp": "45",
+        "record_max_temp": "26",
+        "average_max_temp": "44"
+    },
+    {
+        "date": "2014-10-31",
+        "actual_max_temp": "39",
+        "record_max_temp": "29",
+        "average_max_temp": "44"
+    },
+    {
+        "date": "2014-11-1",
+        "actual_max_temp": "40",
+        "record_max_temp": "29",
+        "average_max_temp": "43"
+    },
+    {
+        "date": "2014-11-2",
+        "actual_max_temp": "30",
+        "record_max_temp": "27",
+        "average_max_temp": "43"
+    },
+    {
+        "date": "2014-11-3",
+        "actual_max_temp": "24",
+        "record_max_temp": "24",
+        "average_max_temp": "43"
+    },
+    {
+        "date": "2014-11-4",
+        "actual_max_temp": "39",
+        "record_max_temp": "22",
+        "average_max_temp": "43"
+    },
+    {
+        "date": "2014-11-5",
+        "actual_max_temp": "49",
+        "record_max_temp": "24",
+        "average_max_temp": "42"
+    },
+    {
+        "date": "2014-11-6",
+        "actual_max_temp": "48",
+        "record_max_temp": "26",
+        "average_max_temp": "42"
+    },
+    {
+        "date": "2014-11-7",
+        "actual_max_temp": "39",
+        "record_max_temp": "26",
+        "average_max_temp": "42"
+    },
+    {
+        "date": "2014-11-8",
+        "actual_max_temp": "31",
+        "record_max_temp": "25",
+        "average_max_temp": "41"
+    },
+    {
+        "date": "2014-11-9",
+        "actual_max_temp": "38",
+        "record_max_temp": "24",
+        "average_max_temp": "41"
+    },
+    {
+        "date": "2014-11-10",
+        "actual_max_temp": "32",
+        "record_max_temp": "28",
+        "average_max_temp": "41"
+    },
+    {
+        "date": "2014-11-11",
+        "actual_max_temp": "39",
+        "record_max_temp": "24",
+        "average_max_temp": "41"
+    },
+    {
+        "date": "2014-11-12",
+        "actual_max_temp": "41",
+        "record_max_temp": "24",
+        "average_max_temp": "40"
+    },
+    {
+        "date": "2014-11-13",
+        "actual_max_temp": "46",
+        "record_max_temp": "21",
+        "average_max_temp": "40"
+    },
+    {
+        "date": "2014-11-14",
+        "actual_max_temp": "28",
+        "record_max_temp": "21",
+        "average_max_temp": "40"
+    },
+    {
+        "date": "2014-11-15",
+        "actual_max_temp": "25",
+        "record_max_temp": "20",
+        "average_max_temp": "39"
+    },
+    {
+        "date": "2014-11-16",
+        "actual_max_temp": "29",
+        "record_max_temp": "22",
+        "average_max_temp": "39"
+    },
+    {
+        "date": "2014-11-17",
+        "actual_max_temp": "36",
+        "record_max_temp": "20",
+        "average_max_temp": "39"
+    },
+    {
+        "date": "2014-11-18",
+        "actual_max_temp": "20",
+        "record_max_temp": "20",
+        "average_max_temp": "38"
+    },
+    {
+        "date": "2014-11-19",
+        "actual_max_temp": "14",
+        "record_max_temp": "14",
+        "average_max_temp": "38"
+    },
+    {
+        "date": "2014-11-20",
+        "actual_max_temp": "34",
+        "record_max_temp": "18",
+        "average_max_temp": "38"
+    },
+    {
+        "date": "2014-11-21",
+        "actual_max_temp": "30",
+        "record_max_temp": "19",
+        "average_max_temp": "38"
+    },
+    {
+        "date": "2014-11-22",
+        "actual_max_temp": "22",
+        "record_max_temp": "13",
+        "average_max_temp": "37"
+    },
+    {
+        "date": "2014-11-23",
+        "actual_max_temp": "42",
+        "record_max_temp": "18",
+        "average_max_temp": "37"
+    },
+    {
+        "date": "2014-11-24",
+        "actual_max_temp": "59",
+        "record_max_temp": "16",
+        "average_max_temp": "37"
+    },
+    {
+        "date": "2014-11-25",
+        "actual_max_temp": "49",
+        "record_max_temp": "13",
+        "average_max_temp": "37"
+    },
+    {
+        "date": "2014-11-26",
+        "actual_max_temp": "40",
+        "record_max_temp": "11",
+        "average_max_temp": "36"
+    },
+    {
+        "date": "2014-11-27",
+        "actual_max_temp": "34",
+        "record_max_temp": "18",
+        "average_max_temp": "36"
+    },
+    {
+        "date": "2014-11-28",
+        "actual_max_temp": "25",
+        "record_max_temp": "19",
+        "average_max_temp": "36"
+    },
+    {
+        "date": "2014-11-29",
+        "actual_max_temp": "31",
+        "record_max_temp": "20",
+        "average_max_temp": "35"
+    },
+    {
+        "date": "2014-11-30",
+        "actual_max_temp": "39",
+        "record_max_temp": "15",
+        "average_max_temp": "35"
+    },
+    {
+        "date": "2014-12-1",
+        "actual_max_temp": "41",
+        "record_max_temp": "15",
+        "average_max_temp": "35"
+    },
+    {
+        "date": "2014-12-2",
+        "actual_max_temp": "42",
+        "record_max_temp": "20",
+        "average_max_temp": "35"
+    },
+    {
+        "date": "2014-12-3",
+        "actual_max_temp": "42",
+        "record_max_temp": "20",
+        "average_max_temp": "34"
+    },
+    {
+        "date": "2014-12-4",
+        "actual_max_temp": "49",
+        "record_max_temp": "18",
+        "average_max_temp": "34"
+    },
+    {
+        "date": "2014-12-5",
+        "actual_max_temp": "42",
+        "record_max_temp": "18",
+        "average_max_temp": "34"
+    },
+    {
+        "date": "2014-12-6",
+        "actual_max_temp": "42",
+        "record_max_temp": "18",
+        "average_max_temp": "34"
+    },
+    {
+        "date": "2014-12-7",
+        "actual_max_temp": "39",
+        "record_max_temp": "12",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2014-12-8",
+        "actual_max_temp": "36",
+        "record_max_temp": "10",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2014-12-9",
+        "actual_max_temp": "37",
+        "record_max_temp": "14",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2014-12-10",
+        "actual_max_temp": "32",
+        "record_max_temp": "13",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2014-12-11",
+        "actual_max_temp": "23",
+        "record_max_temp": "13",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2014-12-12",
+        "actual_max_temp": "22",
+        "record_max_temp": "7",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2014-12-13",
+        "actual_max_temp": "25",
+        "record_max_temp": "2",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2014-12-14",
+        "actual_max_temp": "29",
+        "record_max_temp": "12",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2014-12-15",
+        "actual_max_temp": "26",
+        "record_max_temp": "10",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2014-12-16",
+        "actual_max_temp": "37",
+        "record_max_temp": "12",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2014-12-17",
+        "actual_max_temp": "31",
+        "record_max_temp": "14",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2014-12-18",
+        "actual_max_temp": "30",
+        "record_max_temp": "11",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2014-12-19",
+        "actual_max_temp": "30",
+        "record_max_temp": "11",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2014-12-20",
+        "actual_max_temp": "40",
+        "record_max_temp": "12",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2014-12-21",
+        "actual_max_temp": "42",
+        "record_max_temp": "10",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2014-12-22",
+        "actual_max_temp": "38",
+        "record_max_temp": "11",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2014-12-23",
+        "actual_max_temp": "37",
+        "record_max_temp": "8",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2014-12-24",
+        "actual_max_temp": "45",
+        "record_max_temp": "6",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2014-12-25",
+        "actual_max_temp": "32",
+        "record_max_temp": "4",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2014-12-26",
+        "actual_max_temp": "27",
+        "record_max_temp": "6",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2014-12-27",
+        "actual_max_temp": "32",
+        "record_max_temp": "15",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2014-12-28",
+        "actual_max_temp": "49",
+        "record_max_temp": "10",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2014-12-29",
+        "actual_max_temp": "44",
+        "record_max_temp": "2",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2014-12-30",
+        "actual_max_temp": "32",
+        "record_max_temp": "-5",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2014-12-31",
+        "actual_max_temp": "27",
+        "record_max_temp": "0",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-1",
+        "actual_max_temp": "26",
+        "record_max_temp": "10",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-2",
+        "actual_max_temp": "42",
+        "record_max_temp": "6",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-3",
+        "actual_max_temp": "47",
+        "record_max_temp": "8",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-4",
+        "actual_max_temp": "47",
+        "record_max_temp": "8",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-5",
+        "actual_max_temp": "36",
+        "record_max_temp": "10",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-6",
+        "actual_max_temp": "24",
+        "record_max_temp": "5",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-7",
+        "actual_max_temp": "16",
+        "record_max_temp": "6",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-8",
+        "actual_max_temp": "8",
+        "record_max_temp": "8",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-9",
+        "actual_max_temp": "22",
+        "record_max_temp": "4",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-10",
+        "actual_max_temp": "19",
+        "record_max_temp": "4",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-11",
+        "actual_max_temp": "15",
+        "record_max_temp": "0",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-12",
+        "actual_max_temp": "37",
+        "record_max_temp": "-1",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-13",
+        "actual_max_temp": "35",
+        "record_max_temp": "3",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-14",
+        "actual_max_temp": "30",
+        "record_max_temp": "7",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-15",
+        "actual_max_temp": "26",
+        "record_max_temp": "12",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-16",
+        "actual_max_temp": "30",
+        "record_max_temp": "5",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-17",
+        "actual_max_temp": "24",
+        "record_max_temp": "5",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-18",
+        "actual_max_temp": "37",
+        "record_max_temp": "10",
+        "average_max_temp": "29"
+    },
+    {
+        "date": "2015-1-19",
+        "actual_max_temp": "33",
+        "record_max_temp": "6",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-20",
+        "actual_max_temp": "39",
+        "record_max_temp": "-2",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-21",
+        "actual_max_temp": "36",
+        "record_max_temp": "-5",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-22",
+        "actual_max_temp": "25",
+        "record_max_temp": "5",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-23",
+        "actual_max_temp": "36",
+        "record_max_temp": "9",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-24",
+        "actual_max_temp": "33",
+        "record_max_temp": "7",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-25",
+        "actual_max_temp": "28",
+        "record_max_temp": "11",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-26",
+        "actual_max_temp": "37",
+        "record_max_temp": "8",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-27",
+        "actual_max_temp": "29",
+        "record_max_temp": "6",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-28",
+        "actual_max_temp": "23",
+        "record_max_temp": "5",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-29",
+        "actual_max_temp": "25",
+        "record_max_temp": "8",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-30",
+        "actual_max_temp": "26",
+        "record_max_temp": "4",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-1-31",
+        "actual_max_temp": "19",
+        "record_max_temp": "4",
+        "average_max_temp": "30"
+    },
+    {
+        "date": "2015-2-1",
+        "actual_max_temp": "36",
+        "record_max_temp": "10",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2015-2-2",
+        "actual_max_temp": "26",
+        "record_max_temp": "10",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2015-2-3",
+        "actual_max_temp": "22",
+        "record_max_temp": "8",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2015-2-4",
+        "actual_max_temp": "28",
+        "record_max_temp": "11",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2015-2-5",
+        "actual_max_temp": "27",
+        "record_max_temp": "6",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2015-2-6",
+        "actual_max_temp": "18",
+        "record_max_temp": "13",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2015-2-7",
+        "actual_max_temp": "28",
+        "record_max_temp": "10",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2015-2-8",
+        "actual_max_temp": "47",
+        "record_max_temp": "1",
+        "average_max_temp": "31"
+    },
+    {
+        "date": "2015-2-9",
+        "actual_max_temp": "51",
+        "record_max_temp": "6",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2015-2-10",
+        "actual_max_temp": "37",
+        "record_max_temp": "8",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2015-2-11",
+        "actual_max_temp": "28",
+        "record_max_temp": "12",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2015-2-12",
+        "actual_max_temp": "26",
+        "record_max_temp": "11",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2015-2-13",
+        "actual_max_temp": "21",
+        "record_max_temp": "2",
+        "average_max_temp": "32"
+    },
+    {
+        "date": "2015-2-14",
+        "actual_max_temp": "23",
+        "record_max_temp": "-5",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2015-2-15",
+        "actual_max_temp": "14",
+        "record_max_temp": "12",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2015-2-16",
+        "actual_max_temp": "24",
+        "record_max_temp": "11",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2015-2-17",
+        "actual_max_temp": "23",
+        "record_max_temp": "7",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2015-2-18",
+        "actual_max_temp": "21",
+        "record_max_temp": "5",
+        "average_max_temp": "33"
+    },
+    {
+        "date": "2015-2-19",
+        "actual_max_temp": "12",
+        "record_max_temp": "8",
+        "average_max_temp": "34"
+    },
+    {
+        "date": "2015-2-20",
+        "actual_max_temp": "7",
+        "record_max_temp": "7",
+        "average_max_temp": "34"
+    },
+    {
+        "date": "2015-2-21",
+        "actual_max_temp": "25",
+        "record_max_temp": "6",
+        "average_max_temp": "34"
+    },
+    {
+        "date": "2015-2-22",
+        "actual_max_temp": "36",
+        "record_max_temp": "12",
+        "average_max_temp": "34"
+    },
+    {
+        "date": "2015-2-23",
+        "actual_max_temp": "35",
+        "record_max_temp": "19",
+        "average_max_temp": "34"
+    },
+    {
+        "date": "2015-2-24",
+        "actual_max_temp": "28",
+        "record_max_temp": "16",
+        "average_max_temp": "35"
+    },
+    {
+        "date": "2015-2-25",
+        "actual_max_temp": "29",
+        "record_max_temp": "7",
+        "average_max_temp": "35"
+    },
+    {
+        "date": "2015-2-26",
+        "actual_max_temp": "31",
+        "record_max_temp": "7",
+        "average_max_temp": "35"
+    },
+    {
+        "date": "2015-2-27",
+        "actual_max_temp": "26",
+        "record_max_temp": "7",
+        "average_max_temp": "35"
+    },
+    {
+        "date": "2015-2-28",
+        "actual_max_temp": "29",
+        "record_max_temp": "14",
+        "average_max_temp": "36"
+    },
+    {
+        "date": "2015-3-1",
+        "actual_max_temp": "31",
+        "record_max_temp": "15",
+        "average_max_temp": "36"
+    },
+    {
+        "date": "2015-3-2",
+        "actual_max_temp": "39",
+        "record_max_temp": "14",
+        "average_max_temp": "36"
+    },
+    {
+        "date": "2015-3-3",
+        "actual_max_temp": "40",
+        "record_max_temp": "4",
+        "average_max_temp": "36"
+    },
+    {
+        "date": "2015-3-4",
+        "actual_max_temp": "42",
+        "record_max_temp": "15",
+        "average_max_temp": "36"
+    },
+    {
+        "date": "2015-3-5",
+        "actual_max_temp": "36",
+        "record_max_temp": "12",
+        "average_max_temp": "37"
+    },
+    {
+        "date": "2015-3-6",
+        "actual_max_temp": "25",
+        "record_max_temp": "10",
+        "average_max_temp": "37"
+    },
+    {
+        "date": "2015-3-7",
+        "actual_max_temp": "23",
+        "record_max_temp": "14",
+        "average_max_temp": "37"
+    },
+    {
+        "date": "2015-3-8",
+        "actual_max_temp": "32",
+        "record_max_temp": "16",
+        "average_max_temp": "37"
+    },
+    {
+        "date": "2015-3-9",
+        "actual_max_temp": "51",
+        "record_max_temp": "16",
+        "average_max_temp": "38"
+    },
+    {
+        "date": "2015-3-10",
+        "actual_max_temp": "53",
+        "record_max_temp": "17",
+        "average_max_temp": "38"
+    },
+    {
+        "date": "2015-3-11",
+        "actual_max_temp": "58",
+        "record_max_temp": "22",
+        "average_max_temp": "38"
+    },
+    {
+        "date": "2015-3-12",
+        "actual_max_temp": "51",
+        "record_max_temp": "19",
+        "average_max_temp": "38"
+    },
+    {
+        "date": "2015-3-13",
+        "actual_max_temp": "42",
+        "record_max_temp": "18",
+        "average_max_temp": "39"
+    },
+    {
+        "date": "2015-3-14",
+        "actual_max_temp": "41",
+        "record_max_temp": "16",
+        "average_max_temp": "39"
+    },
+    {
+        "date": "2015-3-15",
+        "actual_max_temp": "49",
+        "record_max_temp": "16",
+        "average_max_temp": "39"
+    },
+    {
+        "date": "2015-3-16",
+        "actual_max_temp": "43",
+        "record_max_temp": "18",
+        "average_max_temp": "39"
+    },
+    {
+        "date": "2015-3-17",
+        "actual_max_temp": "41",
+        "record_max_temp": "23",
+        "average_max_temp": "40"
+    },
+    {
+        "date": "2015-3-18",
+        "actual_max_temp": "47",
+        "record_max_temp": "21",
+        "average_max_temp": "40"
+    },
+    {
+        "date": "2015-3-19",
+        "actual_max_temp": "42",
+        "record_max_temp": "21",
+        "average_max_temp": "40"
+    },
+    {
+        "date": "2015-3-20",
+        "actual_max_temp": "42",
+        "record_max_temp": "23",
+        "average_max_temp": "40"
+    },
+    {
+        "date": "2015-3-21",
+        "actual_max_temp": "40",
+        "record_max_temp": "18",
+        "average_max_temp": "41"
+    },
+    {
+        "date": "2015-3-22",
+        "actual_max_temp": "54",
+        "record_max_temp": "24",
+        "average_max_temp": "41"
+    },
+    {
+        "date": "2015-3-23",
+        "actual_max_temp": "51",
+        "record_max_temp": "20",
+        "average_max_temp": "41"
+    },
+    {
+        "date": "2015-3-24",
+        "actual_max_temp": "45",
+        "record_max_temp": "24",
+        "average_max_temp": "41"
+    },
+    {
+        "date": "2015-3-25",
+        "actual_max_temp": "54",
+        "record_max_temp": "22",
+        "average_max_temp": "42"
+    },
+    {
+        "date": "2015-3-26",
+        "actual_max_temp": "56",
+        "record_max_temp": "22",
+        "average_max_temp": "42"
+    },
+    {
+        "date": "2015-3-27",
+        "actual_max_temp": "43",
+        "record_max_temp": "19",
+        "average_max_temp": "42"
+    },
+    {
+        "date": "2015-3-28",
+        "actual_max_temp": "34",
+        "record_max_temp": "25",
+        "average_max_temp": "42"
+    },
+    {
+        "date": "2015-3-29",
+        "actual_max_temp": "29",
+        "record_max_temp": "26",
+        "average_max_temp": "42"
+    },
+    {
+        "date": "2015-3-30",
+        "actual_max_temp": "39",
+        "record_max_temp": "24",
+        "average_max_temp": "43"
+    },
+    {
+        "date": "2015-3-31",
+        "actual_max_temp": "35",
+        "record_max_temp": "21",
+        "average_max_temp": "43"
+    },
+    {
+        "date": "2015-4-1",
+        "actual_max_temp": "49",
+        "record_max_temp": "24",
+        "average_max_temp": "43"
+    },
+    {
+        "date": "2015-4-2",
+        "actual_max_temp": "58",
+        "record_max_temp": "28",
+        "average_max_temp": "43"
+    },
+    {
+        "date": "2015-4-3",
+        "actual_max_temp": "58",
+        "record_max_temp": "28",
+        "average_max_temp": "44"
+    },
+    {
+        "date": "2015-4-4",
+        "actual_max_temp": "45",
+        "record_max_temp": "29",
+        "average_max_temp": "44"
+    },
+    {
+        "date": "2015-4-5",
+        "actual_max_temp": "36",
+        "record_max_temp": "26",
+        "average_max_temp": "44"
+    },
+    {
+        "date": "2015-4-6",
+        "actual_max_temp": "51",
+        "record_max_temp": "28",
+        "average_max_temp": "44"
+    },
+    {
+        "date": "2015-4-7",
+        "actual_max_temp": "57",
+        "record_max_temp": "25",
+        "average_max_temp": "45"
+    },
+    {
+        "date": "2015-4-8",
+        "actual_max_temp": "63",
+        "record_max_temp": "21",
+        "average_max_temp": "45"
+    },
+    {
+        "date": "2015-4-9",
+        "actual_max_temp": "65",
+        "record_max_temp": "25",
+        "average_max_temp": "45"
+    },
+    {
+        "date": "2015-4-10",
+        "actual_max_temp": "67",
+        "record_max_temp": "28",
+        "average_max_temp": "45"
+    },
+    {
+        "date": "2015-4-11",
+        "actual_max_temp": "56",
+        "record_max_temp": "28",
+        "average_max_temp": "46"
+    },
+    {
+        "date": "2015-4-12",
+        "actual_max_temp": "50",
+        "record_max_temp": "29",
+        "average_max_temp": "46"
+    },
+    {
+        "date": "2015-4-13",
+        "actual_max_temp": "59",
+        "record_max_temp": "28",
+        "average_max_temp": "46"
+    },
+    {
+        "date": "2015-4-14",
+        "actual_max_temp": "65",
+        "record_max_temp": "27",
+        "average_max_temp": "46"
+    },
+    {
+        "date": "2015-4-15",
+        "actual_max_temp": "50",
+        "record_max_temp": "28",
+        "average_max_temp": "47"
+    },
+    {
+        "date": "2015-4-16",
+        "actual_max_temp": "47",
+        "record_max_temp": "29",
+        "average_max_temp": "47"
+    },
+    {
+        "date": "2015-4-17",
+        "actual_max_temp": "54",
+        "record_max_temp": "30",
+        "average_max_temp": "47"
+    },
+    {
+        "date": "2015-4-18",
+        "actual_max_temp": "60",
+        "record_max_temp": "32",
+        "average_max_temp": "48"
+    },
+    {
+        "date": "2015-4-19",
+        "actual_max_temp": "64",
+        "record_max_temp": "30",
+        "average_max_temp": "48"
+    },
+    {
+        "date": "2015-4-20",
+        "actual_max_temp": "60",
+        "record_max_temp": "28",
+        "average_max_temp": "48"
+    },
+    {
+        "date": "2015-4-21",
+        "actual_max_temp": "45",
+        "record_max_temp": "30",
+        "average_max_temp": "48"
+    },
+    {
+        "date": "2015-4-22",
+        "actual_max_temp": "43",
+        "record_max_temp": "33",
+        "average_max_temp": "49"
+    },
+    {
+        "date": "2015-4-23",
+        "actual_max_temp": "49",
+        "record_max_temp": "35",
+        "average_max_temp": "49"
+    },
+    {
+        "date": "2015-4-24",
+        "actual_max_temp": "38",
+        "record_max_temp": "36",
+        "average_max_temp": "49"
+    },
+    {
+        "date": "2015-4-25",
+        "actual_max_temp": "51",
+        "record_max_temp": "31",
+        "average_max_temp": "49"
+    },
+    {
+        "date": "2015-4-26",
+        "actual_max_temp": "48",
+        "record_max_temp": "34",
+        "average_max_temp": "50"
+    },
+    {
+        "date": "2015-4-27",
+        "actual_max_temp": "39",
+        "record_max_temp": "37",
+        "average_max_temp": "50"
+    },
+    {
+        "date": "2015-4-28",
+        "actual_max_temp": "38",
+        "record_max_temp": "36",
+        "average_max_temp": "50"
+    },
+    {
+        "date": "2015-4-29",
+        "actual_max_temp": "45",
+        "record_max_temp": "33",
+        "average_max_temp": "51"
+    },
+    {
+        "date": "2015-4-30",
+        "actual_max_temp": "49",
+        "record_max_temp": "37",
+        "average_max_temp": "51"
+    },
+    {
+        "date": "2015-5-1",
+        "actual_max_temp": "47",
+        "record_max_temp": "37",
+        "average_max_temp": "51"
+    },
+    {
+        "date": "2015-5-2",
+        "actual_max_temp": "45",
+        "record_max_temp": "32",
+        "average_max_temp": "52"
+    },
+    {
+        "date": "2015-5-3",
+        "actual_max_temp": "46",
+        "record_max_temp": "39",
+        "average_max_temp": "52"
+    },
+    {
+        "date": "2015-5-4",
+        "actual_max_temp": "55",
+        "record_max_temp": "34",
+        "average_max_temp": "52"
+    },
+    {
+        "date": "2015-5-5",
+        "actual_max_temp": "56",
+        "record_max_temp": "36",
+        "average_max_temp": "52"
+    },
+    {
+        "date": "2015-5-6",
+        "actual_max_temp": "53",
+        "record_max_temp": "39",
+        "average_max_temp": "53"
+    },
+    {
+        "date": "2015-5-7",
+        "actual_max_temp": "58",
+        "record_max_temp": "38",
+        "average_max_temp": "53"
+    },
+    {
+        "date": "2015-5-8",
+        "actual_max_temp": "57",
+        "record_max_temp": "35",
+        "average_max_temp": "53"
+    },
+    {
+        "date": "2015-5-9",
+        "actual_max_temp": "60",
+        "record_max_temp": "39",
+        "average_max_temp": "54"
+    },
+    {
+        "date": "2015-5-10",
+        "actual_max_temp": "65",
+        "record_max_temp": "38",
+        "average_max_temp": "54"
+    },
+    {
+        "date": "2015-5-11",
+        "actual_max_temp": "61",
+        "record_max_temp": "39",
+        "average_max_temp": "54"
+    },
+    {
+        "date": "2015-5-12",
+        "actual_max_temp": "66",
+        "record_max_temp": "39",
+        "average_max_temp": "55"
+    },
+    {
+        "date": "2015-5-13",
+        "actual_max_temp": "60",
+        "record_max_temp": "38",
+        "average_max_temp": "55"
+    },
+    {
+        "date": "2015-5-14",
+        "actual_max_temp": "58",
+        "record_max_temp": "41",
+        "average_max_temp": "55"
+    },
+    {
+        "date": "2015-5-15",
+        "actual_max_temp": "63",
+        "record_max_temp": "40",
+        "average_max_temp": "56"
+    },
+    {
+        "date": "2015-5-16",
+        "actual_max_temp": "62",
+        "record_max_temp": "42",
+        "average_max_temp": "56"
+    },
+    {
+        "date": "2015-5-17",
+        "actual_max_temp": "63",
+        "record_max_temp": "43",
+        "average_max_temp": "56"
+    },
+    {
+        "date": "2015-5-18",
+        "actual_max_temp": "67",
+        "record_max_temp": "34",
+        "average_max_temp": "56"
+    },
+    {
+        "date": "2015-5-19",
+        "actual_max_temp": "65",
+        "record_max_temp": "40",
+        "average_max_temp": "57"
+    },
+    {
+        "date": "2015-5-20",
+        "actual_max_temp": "61",
+        "record_max_temp": "40",
+        "average_max_temp": "57"
+    },
+    {
+        "date": "2015-5-21",
+        "actual_max_temp": "64",
+        "record_max_temp": "41",
+        "average_max_temp": "57"
+    },
+    {
+        "date": "2015-5-22",
+        "actual_max_temp": "52",
+        "record_max_temp": "42",
+        "average_max_temp": "58"
+    },
+    {
+        "date": "2015-5-23",
+        "actual_max_temp": "47",
+        "record_max_temp": "37",
+        "average_max_temp": "58"
+    },
+    {
+        "date": "2015-5-24",
+        "actual_max_temp": "54",
+        "record_max_temp": "43",
+        "average_max_temp": "58"
+    },
+    {
+        "date": "2015-5-25",
+        "actual_max_temp": "59",
+        "record_max_temp": "41",
+        "average_max_temp": "59"
+    },
+    {
+        "date": "2015-5-26",
+        "actual_max_temp": "67",
+        "record_max_temp": "45",
+        "average_max_temp": "59"
+    },
+    {
+        "date": "2015-5-27",
+        "actual_max_temp": "65",
+        "record_max_temp": "41",
+        "average_max_temp": "59"
+    },
+    {
+        "date": "2015-5-28",
+        "actual_max_temp": "67",
+        "record_max_temp": "42",
+        "average_max_temp": "60"
+    },
+    {
+        "date": "2015-5-29",
+        "actual_max_temp": "67",
+        "record_max_temp": "48",
+        "average_max_temp": "60"
+    },
+    {
+        "date": "2015-5-30",
+        "actual_max_temp": "65",
+        "record_max_temp": "47",
+        "average_max_temp": "60"
+    },
+    {
+        "date": "2015-5-31",
+        "actual_max_temp": "67",
+        "record_max_temp": "42",
+        "average_max_temp": "61"
+    },
+    {
+        "date": "2015-6-1",
+        "actual_max_temp": "66",
+        "record_max_temp": "45",
+        "average_max_temp": "61"
+    },
+    {
+        "date": "2015-6-2",
+        "actual_max_temp": "64",
+        "record_max_temp": "46",
+        "average_max_temp": "61"
+    },
+    {
+        "date": "2015-6-3",
+        "actual_max_temp": "64",
+        "record_max_temp": "51",
+        "average_max_temp": "61"
+    },
+    {
+        "date": "2015-6-4",
+        "actual_max_temp": "61",
+        "record_max_temp": "50",
+        "average_max_temp": "62"
+    },
+    {
+        "date": "2015-6-5",
+        "actual_max_temp": "59",
+        "record_max_temp": "50",
+        "average_max_temp": "62"
+    },
+    {
+        "date": "2015-6-6",
+        "actual_max_temp": "62",
+        "record_max_temp": "48",
+        "average_max_temp": "62"
+    },
+    {
+        "date": "2015-6-7",
+        "actual_max_temp": "70",
+        "record_max_temp": "45",
+        "average_max_temp": "63"
+    },
+    {
+        "date": "2015-6-8",
+        "actual_max_temp": "69",
+        "record_max_temp": "47",
+        "average_max_temp": "63"
+    },
+    {
+        "date": "2015-6-9",
+        "actual_max_temp": "67",
+        "record_max_temp": "50",
+        "average_max_temp": "63"
+    },
+    {
+        "date": "2015-6-10",
+        "actual_max_temp": "69",
+        "record_max_temp": "46",
+        "average_max_temp": "63"
+    },
+    {
+        "date": "2015-6-11",
+        "actual_max_temp": "68",
+        "record_max_temp": "47",
+        "average_max_temp": "64"
+    },
+    {
+        "date": "2015-6-12",
+        "actual_max_temp": "71",
+        "record_max_temp": "45",
+        "average_max_temp": "64"
+    },
+    {
+        "date": "2015-6-13",
+        "actual_max_temp": "72",
+        "record_max_temp": "49",
+        "average_max_temp": "64"
+    },
+    {
+        "date": "2015-6-14",
+        "actual_max_temp": "68",
+        "record_max_temp": "53",
+        "average_max_temp": "64"
+    },
+    {
+        "date": "2015-6-15",
+        "actual_max_temp": "68",
+        "record_max_temp": "51",
+        "average_max_temp": "65"
+    },
+    {
+        "date": "2015-6-16",
+        "actual_max_temp": "69",
+        "record_max_temp": "52",
+        "average_max_temp": "65"
+    },
+    {
+        "date": "2015-6-17",
+        "actual_max_temp": "73",
+        "record_max_temp": "53",
+        "average_max_temp": "65"
+    },
+    {
+        "date": "2015-6-18",
+        "actual_max_temp": "74",
+        "record_max_temp": "52",
+        "average_max_temp": "65"
+    },
+    {
+        "date": "2015-6-19",
+        "actual_max_temp": "72",
+        "record_max_temp": "54",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2015-6-20",
+        "actual_max_temp": "71",
+        "record_max_temp": "54",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2015-6-21",
+        "actual_max_temp": "71",
+        "record_max_temp": "54",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2015-6-22",
+        "actual_max_temp": "65",
+        "record_max_temp": "53",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2015-6-23",
+        "actual_max_temp": "73",
+        "record_max_temp": "53",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2015-6-24",
+        "actual_max_temp": "75",
+        "record_max_temp": "55",
+        "average_max_temp": "66"
+    },
+    {
+        "date": "2015-6-25",
+        "actual_max_temp": "74",
+        "record_max_temp": "53",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2015-6-26",
+        "actual_max_temp": "70",
+        "record_max_temp": "55",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2015-6-27",
+        "actual_max_temp": "71",
+        "record_max_temp": "56",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2015-6-28",
+        "actual_max_temp": "66",
+        "record_max_temp": "53",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2015-6-29",
+        "actual_max_temp": "59",
+        "record_max_temp": "54",
+        "average_max_temp": "67"
+    },
+    {
+        "date": "2015-6-30",
+        "actual_max_temp": "71",
+        "record_max_temp": "54",
+        "average_max_temp": "67"
+    }
+]

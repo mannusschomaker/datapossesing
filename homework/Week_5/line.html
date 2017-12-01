@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <style>
+
+    .axis--x path {
+      display: none;
+    }
+
+    .line {
+      fill: none;
+      stroke: steelblue;
+      stroke-width: 1.5px;
+    }
+
+    .overlay {
+      fill: none;
+      pointer-events: all;
+    }
+
+    .focus circle {
+      fill: none;
+      stroke: steelblue;
+    }
+
+    </style>
+  	<script src="//d3js.org/d3.v4.min.js"  charset="utf-8"></script>
+  	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	<script src="line.js" ></script>
+	<a href= "https://github.com/fivethirtyeight/data/tree/master/us-weather-history"> data source </a>
+
+  </head>
+  <body>
+    <form>
+<div id="option">
+    <input name="updateButton" 
+           type="button" 
+           value="Update min" 
+           onclick="updateMin()" />
+
+<div id="option">
+    <input name="updateButton" 
+           type="button" 
+           value="Update max" 
+           onclick="updateMax()" />
+
+
+  <h5> Mannus Schomaker 10591664 </h5>
+
+  </body>
+
+</html>

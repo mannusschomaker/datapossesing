@@ -1,0 +1,26 @@
+/*
+################
+ stylesheet.css
+ minor programeren
+ 
+ stylesheet for interactive bar chart
+ graph is interactive 
+ door: mannus schomaker 10591664
+################
+*/
+/* set font and size for name of x axis */
+
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  fill: none;
+  stroke: steelblue;
+}
+
+.hooft{
+  font-size: 20px ;
+}
